@@ -11,13 +11,6 @@
 [![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-green)]()
 [![Image Segmentation](https://img.shields.io/badge/Task-Image%20Segmentation-purple)]()
 
-@article{rahmani2024breast,
-  title={Breast mass segmentation in ultrasound images using U-Net and high-resolution modules},
-  journal={Biomedical Signal Processing and Control},
-  volume={94},
-  pages={106270},
-  year={2024}
-}
 
 > ## Overview
 
@@ -91,3 +84,13 @@ Pandas
 OpenCV
 scikit-learn
 Matplotlib
+
+## Paper
+
+@article{rahmani2024breast,
+  title={Breast mass segmentation in ultrasound images using U-Net and high-resolution modules},
+  journal={Biomedical Signal Processing and Control},
+  volume={94},
+  pages={106270},
+  year={2024}
+}
