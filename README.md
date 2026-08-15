@@ -2,9 +2,7 @@
 
 ### U-Net with Attention-Residual High-Resolution Feature Enhancement
 
-<p align="center">
-  <img src="Slide1.JPG" alt="Breast Mass Segmentation Overview" width="90%">
-</p>
+
 
 > Deep learning framework for automatic breast mass segmentation in ultrasound images using an enhanced U-Net architecture with attention and residual high-resolution feature enhancement.
 
@@ -38,8 +36,10 @@ The overall objective is to improve segmentation of breast masses in ultrasound 
 The proposed architecture builds upon the U-Net encoder-decoder framework and introduces attention and residual feature enhancement mechanisms to improve multi-scale feature representation.
 
 <p align="center">
-  <img src="Fig.6.jpg" width="95%">
+  <img src="Slide1.JPG" alt="Breast Mass Segmentation Overview" width="90%">
 </p>
+
+
 
 ### Key Design Concepts
 
@@ -65,6 +65,10 @@ The results indicate that incorporating residual and attention-based resolution 
 
 
 ### Qualitative Results
+
+<p align="center">
+  <img src="Fig.6.jpg" width="95%">
+</p>
 
 <p align="center">
   <img src="Fig.7.jpg" width="90%">
