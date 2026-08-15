@@ -11,6 +11,14 @@
 [![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-green)]()
 [![Image Segmentation](https://img.shields.io/badge/Task-Image%20Segmentation-purple)]()
 
+@article{rahmani2024breast,
+  title={Breast mass segmentation in ultrasound images using U-Net and high-resolution modules},
+  journal={Biomedical Signal Processing and Control},
+  volume={94},
+  pages={106270},
+  year={2024}
+}
+
 > ## Overview
 
 Breast ultrasound imaging is widely used for breast lesion assessment, but accurate segmentation of breast masses remains challenging because of low contrast, speckle noise, irregular lesion boundaries, and visual similarity between lesions and surrounding tissue.
@@ -75,3 +83,11 @@ The results indicate that incorporating residual and attention-based resolution 
 </p>
 
 
+## Requirements
+Python 3.x
+TensorFlow
+NumPy
+Pandas
+OpenCV
+scikit-learn
+Matplotlib
